@@ -1,6 +1,6 @@
 {
   "name": "mp-wui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a fast ui framework for mpvue ",
   "author": "zenking <zhangling@whatsmax.com>",
   "private": false,
